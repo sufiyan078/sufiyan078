@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/data-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/e980be186738d95527c09835a4b363eceefe8750a96b65fd8b1293502de53c9b/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3365393962395f66353361316361623935616534646664393338613162663661316136326634397e6d76322e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SUFIYAN AHMED</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
